@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 ## Hi, I'm Daniel 🧡
-</p>
+</h1>
 
 ⚡ Fullstack Developer (building scalable web apps & APIs)<br>
 🤖 Aspiring Robotics Software Engineer (AI + hardware tinkering)<br>
