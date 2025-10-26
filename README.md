@@ -1,5 +1,5 @@
 <p align="center">
-### Hi, I'm Daniel 🧡
+## Hi, I'm Daniel 🧡
 </p>
 
 ⚡ Fullstack Developer (building scalable web apps & APIs)<br>
