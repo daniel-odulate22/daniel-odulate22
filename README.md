@@ -3,7 +3,7 @@
 </h1>
 
 ⚡ Fullstack Developer <br>
-🤖 Aspiring Robotics Software Engineer<br>
+🤖 Robotics Software Engineer<br>
 🧠 Exploring the world of Artificial Intelligence<br>
 
 
