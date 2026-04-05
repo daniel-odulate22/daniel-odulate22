@@ -1,5 +1,5 @@
 <h1 align="center">
- Hello, I'm Daniel 🧡👾
+ Hello, I'm Daniel 👾
 </h1>
 
 ⚡ Fullstack Developer <br>
