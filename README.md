@@ -2,7 +2,7 @@
  Hello, I'm Daniel 👾🧡
 </h1>
 
-🛠️ Building at the intersection of software and hardware 🙂‍↕️
+🛠️ Building at the intersection of software and hardware 🙂‍↕️ <br>
 ⚡ Fullstack Developer <br>
 🤖 Robotics Software Engineer<br>
 🧠 Exploring the world of Artificial Intelligence<br>
