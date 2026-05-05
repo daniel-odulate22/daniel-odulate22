@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
+# Hello, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
 
 **Senior @ Babcock University ‣ Soft Eng. | Robots & Space 🛰️**
 
