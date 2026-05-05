@@ -1,22 +1,60 @@
-<h1 align="center">
- Hello, I'm Daniel 👾🚀
-</h1>
+<div align="center">
 
-🛠️ Building at the intersection of software and hardware 🙂‍↕️ <br>
-⚡ Fullstack Developer <br>
-🤖 Robotics Software Engineer<br>
-🧠 Exploring the world of Artificial Intelligence<br>
+# Hi, I'm Daniel Odulate 👾 🚀
+
+**Senior @ Babcock University ‣ Soft Eng. | Robots & Space 🛰️**
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Intersection+of+software+and+hardware+🛠️;Systems+Architect+⚙️;Fullstack+Developer+👨‍💻;Engineer+🤖;Builder+🧱" alt="Typing effect showing roles" />
+</div>
+
+<br>
+
+<img src="https://github.com/daniel-odullate22/hello-hiro.gif" width="500" alt="Hello There" />
+
+<br>
+<br>
+
+&nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-danielodulate.vercel.app-blue?style=flat-square&logo=vercel)](https://danielodulate.vercel.app)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielodulate-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/danielodulate)
+
+</div>
+<br>
+
+I build at the intersection of **AI**, **full-stack software development**, and **embedded systems**. I like shipping quickly, learning in public, and iterating toward products people actually use.
+
+### 🚀 What I'm Building Now
+
+*   [Vigil Health](https://github.com/daniel-odulate22/vigil-mvp) -- Think Duolingo but for your medication...except if you miss a streak, it could cost you your life. It's an offline-first medication adherence application built with React Native and WatermelonDB, featuring an AI-driven packaging scanner.
+*   **Model College Sagamu Portal** : A centralized publicity hub and alumni portal for my alma mater.
+
+<br>
+
+<div align="center">
+<!-- Second GIF: A minimalist or tech-focused pixel art animation -->
+<img src="https://i.pinimg.com/originals/65/56/bf/6556bfa097a2ebc9ec2861c471c0df1b.gif" width="500" alt="Pixel art city skyline or hardware simulation" />
+</div>
+
+<br>
+
+### 🧩 More Projects
+
+* [Digital Robot Face](https://github.com/daniel-odulate22/digital-robot-face) -- A Python-based prototype using pygame to render the digital face of a robot.
+*   [PulsePoint](https://github.com/daniel-odulate22/PulsePoint) -- A web platform that delivers categorized and personalized news summaries for seamless browsing.
+*   [MentorMatch](https://github.com/daniel-odulate22/MentorMatch) -- A mentorship matching platform connecting users based on goals and expertise, built with React, Node.js, and Express.
+* [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend) -- Track your calories
+
+### 🛠️ Tech I Use
+
+```text
+Languages     TypeScript, JavaScript, Python, C++
+Frontend      React, TailwindCSS
+Backend       Node.js, Express.js, Supabase
+Hardware      Arduino, Tinkercad, KiCad
+Tools         Git, VS Code, Vercel, Netlify, Figma 
+```
 
 
-## 🌐 Socials:
+### 👾 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielodulate) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.odulate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Xander_danny229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielodulate25@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TinkerCAD](https://img.shields.io/badge/-tinkercad-00979D?style=for-the-badge&logo=tinkercad&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daniel-odulate22&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=daniel-odulate22&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-odulate22&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daniel-odulate22&theme=default&no-frame=false&no-bg=true&margin-w=4)
