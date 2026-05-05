@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Daniel Odulate 👾 🚀
+# Hi, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
 
 **Senior @ Babcock University ‣ Soft Eng. | Robots & Space 🛰️**
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Intersection+of+software+and+hardware+🛠️;Systems+Architect+⚙️;Fullstack+Developer+👨‍💻;Engineer+🤖;Builder+🧱" alt="Typing effect showing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=26&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Intersection+of+software+and+hardware+%F0%9F%9B%A0%EF%B8%8F;Systems+Architect+%E2%9A%99%EF%B8%8F;Fullstack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A4%96;Builder+%F0%9F%A7%B1" alt="Typing effect showing roles" />
 </div>
 
 <br>
 
-<img src="https://github.com/daniel-odullate22/hello-hiro.gif" width="500" alt="Hello There" />
+<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/hello-hiro.gif" width="500" alt="Hello There" />
 
 <br>
 <br>
@@ -32,18 +32,17 @@ I build at the intersection of **AI**, **full-stack software development**, and 
 <br>
 
 <div align="center">
-<!-- Second GIF: A minimalist or tech-focused pixel art animation -->
-<img src="https://i.pinimg.com/originals/65/56/bf/6556bfa097a2ebc9ec2861c471c0df1b.gif" width="500" alt="Pixel art city skyline or hardware simulation" />
+<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/MShf.gif" width="500" alt="Ready to fire..." />
 </div>
 
 <br>
 
 ### 🧩 More Projects
 
-* [Digital Robot Face](https://github.com/daniel-odulate22/digital-robot-face) -- A Python-based prototype using pygame to render the digital face of a robot.
-*   [PulsePoint](https://github.com/daniel-odulate22/PulsePoint) -- A web platform that delivers categorized and personalized news summaries for seamless browsing.
-*   [MentorMatch](https://github.com/daniel-odulate22/MentorMatch) -- A mentorship matching platform connecting users based on goals and expertise, built with React, Node.js, and Express.
-* [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend) -- Track your calories
+* [Digital Robot Face](https://github.com/daniel-odulate22/digital-robot-face): A Python-based prototype using pygame to render the digital face of a robot.
+*   [PulsePoint](https://github.com/daniel-odulate22/PulsePoint): A web platform that delivers categorized and personalized news summaries for seamless browsing.
+*   [MentorMatch](https://github.com/daniel-odulate22/MentorMatch): A mentorship matching platform connecting users based on goals and expertise, built with React, Node.js, and Express.
+* [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend): Track your calories
 
 ### 🛠️ Tech I Use
 
