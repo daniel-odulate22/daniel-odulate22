@@ -2,12 +2,12 @@
 
 # Hello, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
 
-**Senior @ Babcock University ‣ Soft Eng. | Robots & Space 🛰️**
+**Senior @ Babcock University ‣ Soft Eng. **
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=26&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Intersection+of+software+and+hardware+%F0%9F%9B%A0%EF%B8%8F;Systems+Architect+%E2%9A%99%EF%B8%8F;Fullstack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A4%96;Builder+%F0%9F%A7%B1" alt="Typing effect showing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=26&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Intersection+of+software+and+hardware+%F0%9F%9B%A0%EF%B8%8F; Embedded+Systems+Engineer;Systems+Architect+%E2%9A%99%EF%B8%8F;Fullstack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A4%96;Builder+%F0%9F%A7%B1" alt="Typing effect showing roles" />
 </div>
 
 <br>
