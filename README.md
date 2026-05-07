@@ -2,7 +2,7 @@
 
 # Hello, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
 
-**Senior @ Babcock University ‣ Soft Eng. **
+**Senior @ Babcock University ‣ Soft Eng.**
 
 <br>
 
