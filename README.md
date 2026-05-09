@@ -50,7 +50,7 @@ I build at the intersection of **AI**, **full-stack software development**, and 
 Languages     TypeScript, JavaScript, Python, C++
 Frontend      React, TailwindCSS
 Backend       Node.js, Express.js, Supabase
-Hardware      Arduino, Tinkercad, KiCad
+Hardware      Arduino, Tinkercad, Wokwi, KiCad
 Tools         Git, VS Code, Vercel, Netlify, Figma 
 ```
 
