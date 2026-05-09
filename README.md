@@ -26,8 +26,8 @@ I build at the intersection of **AI**, **full-stack software development**, and 
 
 ### 🚀 What I'm Building Now
 
-*   [Vigil Health](https://github.com/daniel-odulate22/vigil-mvp) -- Think Duolingo but for your medication...except if you miss a streak, it could cost you your life. It's an offline-first medication adherence application built with React Native and WatermelonDB, featuring an AI-driven packaging scanner.
-*   **Model College Sagamu Portal** : A centralized publicity hub and alumni portal for my alma mater.
+*   [Vigil Health](https://github.com/daniel-odulate22/vigil-mvp) : Think Duolingo but for your medication...except if you miss a streak, it could cost you your life. It's an offline-first medication adherence application built with React Native and WatermelonDB, featuring an AI-driven packaging scanner.
+*   [Model College, Sagamu Official Website](https://modelcollege.edu.ng) : A centralized publicity hub and alumni portal for my alma mater.
 
 <br>
 
