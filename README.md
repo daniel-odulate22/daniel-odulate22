@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Daniel Odulate (O-DU-LA-TE) 👾 🚀
+# Hello, I'm Daniel 👾 🚀
 
 **Senior @ Babcock University ‣ Soft Eng.**
 
