@@ -2,7 +2,7 @@
 
 # Hello, I'm Daniel 👾 🚀
 
-**Senior @ Babcock University ‣ Soft Eng.**
+**Student @ Babcock University ‣ Soft Eng.**
 
 <br>
 
