@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/hello-hiro.gif" width="500" alt="Hello There" />
+<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/hello-hiro-ascii.gif" width="500" alt="Hello There" />
 
 <br>
 <br>
