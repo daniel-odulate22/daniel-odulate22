@@ -136,6 +136,15 @@ More experiments, prototypes, and unfinished side quests live in my [repositorie
 ![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=F4F1E8)
 ![Netlify](https://img.shields.io/badge/Netlify-0B1220?style=flat-square&logo=netlify&logoColor=3ECFCE)
 
+<div align="center">
+
+<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/MShf.gif" width="340" alt="Ready to fire" />
+
+<br/>
+
+*Building things that make science fiction look a little less fictional.*
+
+</div>
 
 <details>
 <summary>🛸 Psst... you found the hidden transmission.</summary>
