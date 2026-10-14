@@ -1,56 +1,38 @@
-
 <div align="center">
 
-# Daniel Odulate 👾
+# Hello, I'm Daniel 👾 🚀
 
-### Software Engineer | Space Systems & Robotics
+**SWE @ BU**
 
-**SWE @ Babcock University**
+<br>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=26&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Intersection+of+software+and+hardware+%F0%9F%9B%A0%EF%B8%8F;Space+Systems+and+Robotics+%F0%9F%9B%B0%EF%B8%8F+%E2%9A%99%EF%B8%8F;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Builder+%F0%9F%A7%B1" alt="Typing effect showing roles" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8BB8FF&center=true&vCenter=true&width=650&lines=Software+for+the+physical+world.;Robots.+Satellites.+Autonomous+systems.;From+lines+of+code+to+real-world+systems.;Build.+Test.+Learn.+Iterate." alt="Software for the physical world. Robots, satellites, autonomous systems. Build, test, learn, iterate." />
+<br>
 
-<br/>
+<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/hello-hiro-ascii.gif" width="500" alt="Hello There" />
 
-<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/hello-hiro-ascii.gif" width="440" alt="Hello there" />
-
-<br/><br/>
+<br>
+<br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=8BB8FF)](https://danielodulate.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=8BB8FF)](https://linkedin.com/in/danielodulate)
 [![GitHub](https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=8BB8FF)](https://github.com/daniel-odulate22)
 
 </div>
+<br>
 
----
+I'm interested in the software that powers **robots, satellites, and autonomous systems**. I work across full-stack development and embedded systems, with a focus on turning concepts into functional, real-world systems.
 
-## `01` / The mission
-
-I'm interested in the software behind **robots, satellites, and autonomous systems**.
-
-My work spans full-stack development and embedded computing, with growing interests in robotics software, sensor integration, and space systems.
-
-I like turning ideas into working systems, experimenting across disciplines, and understanding what happens when software meets the physical world.
-
-Currently studying Software Engineering at Babcock University and building toward a career in **space systems and robotics**.
-
-## `02` / Current orbit
-
-Things I'm exploring and working toward:
-
-- **Embedded systems:** Microcontrollers, sensors, telemetry, and hardware-software integration.
-- **Robotics:** Programming, perception, control, and the software that makes machines interact with the world.
-- **Space technology:** Satellite systems, spacecraft software, and the engineering behind missions beyond Earth.
-- **Software engineering:** Building useful applications, designing systems, and shipping projects that solve real problems.
-
-## `03` / Selected builds
+### Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Digital Robot Face](https://github.com/daniel-odulate22/digital-robot-face)
+#### 🤖 [Digital Robot Face](https://github.com/daniel-odulate22/digital-robot-face)
 
 An animated robot interface built with Python and Pygame. Features expressive eyes, multiple emotions, eye tracking, and microphone-reactive animation.
 
@@ -59,7 +41,7 @@ An animated robot interface built with Python and Pygame. Features expressive ey
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ [Tiny Satellite Stardance](https://github.com/daniel-odulate22/tiny-satellite-stardance)
+#### 🛰️ [Tiny Satellite Stardance](https://github.com/daniel-odulate22/tiny-satellite-stardance)
 
 A spacecraft-inspired embedded project exploring satellite telemetry and microcontroller-based systems.
 
@@ -70,7 +52,7 @@ A spacecraft-inspired embedded project exploring satellite telemetry and microco
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 [MPU6050 Digital Twin](https://github.com/daniel-odulate22/MPU6050-Digital-Twin)
+#### 🧭 [MPU6050 Digital Twin](https://github.com/daniel-odulate22/MPU6050-Digital-Twin)
 
 A real-time visualization experiment connecting physical gyroscope readings to a 2D digital representation.
 
@@ -79,7 +61,7 @@ A real-time visualization experiment connecting physical gyroscope readings to a
 </td>
 <td width="50%" valign="top">
 
-### 📰 [PulsePoint](https://github.com/daniel-odulate22/PulsePoint)
+#### 📰 [PulsePoint](https://github.com/daniel-odulate22/PulsePoint)
 
 A news platform focused on categorized, personalized news summaries and making information easier to navigate.
 
@@ -90,7 +72,7 @@ A news platform focused on categorized, personalized news summaries and making i
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍🚀 [MentorMatch](https://github.com/daniel-odulate22/MentorMatch)
+#### 🧑‍🚀 [MentorMatch](https://github.com/daniel-odulate22/MentorMatch)
 
 A mentorship platform designed to connect people through shared interests, goals, expertise, and matching.
 
@@ -99,7 +81,7 @@ A mentorship platform designed to connect people through shared interests, goals
 </td>
 <td width="50%" valign="top">
 
-### 🥗 [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend)
+#### 🥗 [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend)
 
 A nutrition-tracking project focused on helping users monitor their food intake and nutritional goals.
 
@@ -115,7 +97,7 @@ More experiments, prototypes, and unfinished side quests live in my [repositorie
 
 </div>
 
-## `04` / The toolkit
+### The toolkit
 
 **Languages**
 
@@ -154,21 +136,6 @@ More experiments, prototypes, and unfinished side quests live in my [repositorie
 ![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=F4F1E8)
 ![Netlify](https://img.shields.io/badge/Netlify-0B1220?style=flat-square&logo=netlify&logoColor=3ECFCE)
 
-## `05` / Beyond the code
-
-I enjoy the space between engineering, creativity, and curiosity. I'm particularly interested in how ideas from science fiction can inspire real engineering problems.
-
-My default approach: **make it exist first, make it better next.**
-
-<div align="center">
-
-<img src="https://github.com/daniel-odulate22/daniel-odulate22/blob/main/MShf.gif" width="340" alt="Ready to fire" />
-
-<br/>
-
-*Building things that make science fiction look a little less fictional.*
-
-</div>
 
 <details>
 <summary>🛸 Psst... you found the hidden transmission.</summary>
