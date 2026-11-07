@@ -17,7 +17,7 @@
 <br>
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=8BB8FF)](https://danielodulate.vercel.app)
+[![Portfolio](https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=vercel&logoColor=8BB8FF)](https://www.instagram.com/daniel.odulate/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=8BB8FF)](https://linkedin.com/in/danielodulate)
 [![GitHub](https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=8BB8FF)](https://github.com/daniel-odulate22)
 
