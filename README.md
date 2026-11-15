@@ -70,22 +70,13 @@ A news platform focused on categorized, personalized news summaries and making i
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### 🧑‍🚀 [MentorMatch](https://github.com/daniel-odulate22/MentorMatch)
+#### 🧭 [Pathfinder](https://github.com/daniel-odulate22/pathfinder)
 
-A mentorship platform designed to connect people through shared interests, goals, expertise, and matching.
+A camera-powered accessibility assistant that uses computer vision and voice interaction to help people with visual impairments better understand their immediate surroundings.
 
-`React` `Node.js` `Express` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🥗 [NutriTrack](https://github.com/daniel-odulate22/NutriTrack-Backend)
-
-A nutrition-tracking project focused on helping users monitor their food intake and nutritional goals.
-
-[Backend repository](https://github.com/daniel-odulate22/NutriTrack-Backend) · [Web app](https://github.com/daniel-odulate22/NutriTrack-Web-App)
+`Python` `YOLO` `OpenCV` `FastAPI` `React` `TypeScript`
 
 </td>
 </tr>
